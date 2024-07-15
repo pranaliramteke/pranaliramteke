@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pranali.</h1>
-- 👯 I’m looking to collaborate on various open-sourced Machine Learning, Deep Learning case studies and projects!
+- 👯 I’m looking to collaborate on various open-sourced Data Analytics, Machine Learning, Deep Learning case studies and projects!
 
 - 🤝 I’m looking for help **with Python**
 
-- 💬 Ask me about **Statistics, Python , Data Science**
+- 💬 Ask me about **Statistics, Python , Data Analytics**
 
-- 📫 How to reach me **pranaliramteke01@gmail.com**
+- 📫 How to reach me **pranaliramteke13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
