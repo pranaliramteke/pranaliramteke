@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranali.</h1>
-- 👯 I’m looking to collaborate **on various open-sourced Machine Learning, Deep Learning case studies and projects!**
+- 👯 I’m looking to collaborate on various open-sourced Machine Learning, Deep Learning case studies and projects!
 
 - 🤝 I’m looking for help **with Python**
 
